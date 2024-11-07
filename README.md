@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/nagendra_s_y" target="blank"><img src="https://img.shields.io/twitter/follow/nagendra_s_y?logo=twitter&style=for-the-badge" alt="nagendra_s_y" /></a> </p>
 
-- 🔭 I’m currently working on [ReUsableReact-UI](https://reusablereactui.netlify.app/)
+- 🔭 I’m currently working on Habit tracker application
 
-- 🔭 I’m currently working on [Railway Welfare Fund Tracker Application](https://railwaypaymentstrackingapp.netlify.app/)
+- 🔭 I’m currently working on [Chat App](https://previewmessenger.netlify.app/chat)
 
 - 🌱 I’m currently learning **Aws, Docker, Websocket.**
 
