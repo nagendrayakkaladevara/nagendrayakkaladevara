@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sai Nagendra Yakkaladevara</h1>
 <h3 align="center">Full stack software developer with expertise in front-end and back-end development.</h3>
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendrayakkaladevara&label=Profile%20views&color=0e75b6&style=flat" alt="nagendrayakkaladevara" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nagendra_s_y" target="blank"><img src="https://img.shields.io/twitter/follow/nagendra_s_y?logo=twitter&style=for-the-badge" alt="nagendra_s_y" /></a> </p>
@@ -20,7 +22,7 @@
 
 - 📫 How to reach me **nagendrayakkaladevara@gmail.com**
 
-
+---
 
 ## 📡 Contact:
 
@@ -29,6 +31,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-nagendra-yakkaladevara-67317419a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-nagendra-yakkaladevara-67317419a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/nagendra_yakkaladevara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nagendra_yakkaladevara/" height="30" width="40" /></a>
 </p>
+
+---
 
 ## 🚀 Tech Skills:
 
@@ -52,6 +56,8 @@ Here's a quick overview of my main skills and the tools I've worked with across 
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websocket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
+
+---
 
 ## 📈 Tech Skills:
 
