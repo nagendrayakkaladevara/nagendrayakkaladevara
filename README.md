@@ -24,14 +24,14 @@
 
 ---
 
-## 📡 Contact:
+## 💬 Let's Connect:
 
-<p align="left">
-<a href="https://twitter.com/nagendra_s_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagendra_s_y" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-nagendra-yakkaladevara-67317419a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-nagendra-yakkaladevara-67317419a/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nagendra_yakkaladevara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nagendra_yakkaladevara/" height="30" width="40" /></a>
-</p>
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-nagendra-yakkaladevara-67317419a/)
+- 📥 [Gmail](nagendrayakkaladevara@gmail.com)
+- 💻 [Portfolio](https://newnagendra.netlify.app/)
+- 🐦 [Twitter(X)](https://twitter.com/nagendra_s_y)
+- 📷 [Instagram](https://www.instagram.com/nagendra_yakkaladevara?igsh=ZXUwYTZwNjRpOXBp)
+- 
 ---
 
 ## 🚀 Tech Skills:
