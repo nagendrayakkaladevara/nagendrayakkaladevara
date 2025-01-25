@@ -24,16 +24,6 @@
 
 ---
 
-## 💬 Let's Connect:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sai-nagendra-yakkaladevara-67317419a/)
-- 📥 [Gmail](nagendrayakkaladevara@gmail.com)
-- 💻 [Portfolio](https://newnagendra.netlify.app/)
-- 🐦 [Twitter(X)](https://twitter.com/nagendra_s_y)
-- 📷 [Instagram](https://www.instagram.com/nagendra_yakkaladevara?igsh=ZXUwYTZwNjRpOXBp)
-  
----
-
 ## 🚀 Tech Skills:
 
 Here's a quick overview of my main skills and the tools I've worked with across different domains:
@@ -57,6 +47,16 @@ Here's a quick overview of my main skills and the tools I've worked with across 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
 
+---
+
+## 💬 Let's Connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-nagendra-yakkaladevara-67317419a/)
+- 📥 [Gmail](nagendrayakkaladevara@gmail.com)
+- 💻 [Portfolio](https://newnagendra.netlify.app/)
+- 🐦 [Twitter(X)](https://twitter.com/nagendra_s_y)
+- 📷 [Instagram](https://www.instagram.com/nagendra_yakkaladevara?igsh=ZXUwYTZwNjRpOXBp)
+  
 ---
 
 ## 📈 Tech Skills:
