@@ -52,7 +52,6 @@ Here's a quick overview of my main skills and the tools I've worked with across 
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websocket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
-and many more!
 
 ## 📈 Tech Skills:
 
