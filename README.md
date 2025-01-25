@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Aws, Docker, Websocket.**
 
-- 👨‍💻 All of my projects are available at [https://nagendrayakkaladevara.netlify.app/](https://nagendrayakkaladevara.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://newnagendra.netlify.app/](https://newnagendra.netlify.app/)
 
-- 📝 I regularly write articles on [https://nagendrayakkaladevara.netlify.app/blog](https://nagendrayakkaladevara.netlify.app/blog)
+- 📝 I regularly write articles on [https://newnagendra.netlify.app/blog](https://newnagendra.netlify.app/blog)
 
 - 💬 Ask me about **React, Express, Node, NextJs, Mongodb, SQL.**
 
