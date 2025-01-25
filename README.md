@@ -52,7 +52,7 @@ Here's a quick overview of my main skills and the tools I've worked with across 
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
 and many more!
 
-## 📈📊 Tech Skills:
+## 📈 Tech Skills:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendrayakkaladevara&show_icons=true&locale=en&layout=compact" alt="nagendrayakkaladevara" /></p>
 
