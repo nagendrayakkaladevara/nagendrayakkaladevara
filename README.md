@@ -31,7 +31,7 @@
 - 💻 [Portfolio](https://newnagendra.netlify.app/)
 - 🐦 [Twitter(X)](https://twitter.com/nagendra_s_y)
 - 📷 [Instagram](https://www.instagram.com/nagendra_yakkaladevara?igsh=ZXUwYTZwNjRpOXBp)
-- 
+  
 ---
 
 ## 🚀 Tech Skills:
