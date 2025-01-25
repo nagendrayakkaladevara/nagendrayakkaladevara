@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on Coler Picker application & [Chat App](https://previewmessenger.netlify.app/chat)
 
-- 🆕 Latest project are GitHub Wrapped 2024, Preview Messenger (A unique chatting app).
+- 🆕 Latest project are **GitHub Wrapped 2024, Preview Messenger (A unique chatting app)**.
 
-- 🌱 I’m currently learning **Aws, Docker, Websocket.**
+- 🌱 I’m currently learning **Aws, Websocket.**
 
 - 👨‍💻 All of my projects are available at [https://newnagendra.netlify.app/](https://newnagendra.netlify.app/)
 
