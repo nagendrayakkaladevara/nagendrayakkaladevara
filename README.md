@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://newnagendra.netlify.app/blog](https://newnagendra.netlify.app/blog)
 
-- 💬 Ask me about **React, Express, Node, NextJs, Mongodb, SQL.**
+- 💬 Ask me about **React, Express, Node, NextJs, Mongodb.**
 
 - 📫 How to reach me **nagendrayakkaladevara@gmail.com**
 
