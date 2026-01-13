@@ -17,7 +17,7 @@ const sai_nagendra = {
     "Samanvi Bus Routes Voice App",
     "Waltair Running Staff Contacts"
   ],
-  challenge: "Building a complex Color Picker engine"
+  challenge: "Building a complex Blogging Platform"
 };
 ```
 ---
